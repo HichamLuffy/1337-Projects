@@ -18,7 +18,7 @@ Watch this video carefully to get your virtual machine up and running smoothly w
 ## 📚 Concepts You MUST Understand
 
 Here’s a visual breakdown of the concepts you need to learn and apply in this project:  
-🔗 [My tldraw explanation](https://www.tldraw.com/f/sTyoGLXVWpNL7ATmhQYQW?d=v-1533.-1173.2525.3564.9pb19a0WM9nRFqxUQXTv8)
+🔗 [My tldraw resume](https://www.tldraw.com/f/sTyoGLXVWpNL7ATmhQYQW?d=v-1533.-1173.2525.3564.9pb19a0WM9nRFqxUQXTv8)
 
 ---
 
